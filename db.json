@@ -1,0 +1,63 @@
+{
+    "Api4Chat": [
+        {
+            "nome": "Talita das Neves",
+            "cpf": "24076558693",
+            "email": "talitadasneves_@outershoes.com.br",
+            "celular": "(31)996331784",
+            "cep": "31630-360",
+            "compras": [
+    			{
+        				"produto": "Máquina NEF14",
+        				"pedido": 7579,
+        				"status": "Entregue",
+        				"data_compra": "12-07-21",
+        				"valor": 669.99,
+        				"quantidade": 1
+    			},
+    			{
+        				"produto": "Cápsulas NEF14",
+        				"pedido": 7580,
+        				"status": "Entregue",
+        				"data_compra": "15-07-21",
+        				"valor": 225,
+        				"quantidade": 5
+    			}
+		   ]
+        },
+        {
+            "nome": "Rafael Novaes",
+            "cpf": "93509197704",
+            "email": "novaesrafael@jh2consulting.com",
+            "celular": "(22)997652247",
+            "cep": "28120970",
+            "compras": [
+    			{
+        				"produto": "Máquina G1",
+        				"pedido": 1486,
+        				"status": "Cancelado",
+        				"data_compra": "24-06-21",
+        				"valor": 769.99,
+        				"quantidade": 1
+    			}
+    		   ]
+        },
+        {
+            "nome": "Jonas Raposo",
+            "cpf": "61086076028",
+            "email": "jonas76@raposoengenharia.com.br",
+            "celular": "(51)995272132",
+            "cep": "96850970",
+            "compras": [
+    			{
+        				"produto": "Cápsulas G7",
+        				"pedido": 5123,
+        				"status": "Enviado",
+        				"data_compra": "04-08-21",
+        				"valor": 135,
+        				"quantidade": 3
+    			}
+    		   ]
+        }
+    ]
+}    
