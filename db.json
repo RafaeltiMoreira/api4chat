@@ -52,7 +52,7 @@
                         },
         
             
-            "compras": 
+            "compras": [
                         {
                                 "produto": "Máquina G1",
                                 "pedido": 1486,
@@ -61,7 +61,7 @@
                                 "valor": 769.99,
                                 "quantidade": 1
                         }
-                       
+                    ]  
         },
         
         {
@@ -78,7 +78,7 @@
                                 "uf": "RS"
                         },
             
-            "compras": 
+            "compras": [
                         {
                                 "produto": "Cápsulas G7",
                                 "pedido": 5123,
@@ -87,7 +87,7 @@
                                 "valor": 135,
                                 "quantidade": 3
                         }
-                       
+                    ]   
         }
         
     ]
