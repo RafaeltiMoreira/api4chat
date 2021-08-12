@@ -2,14 +2,14 @@
     "Api4Chat": [
         {
             "nome": "Talita das Neves",
-            "cpf": "24076558693",
+            "cpf": "240.765.586-93",
             "email": "talitadasneves_@outershoes.com.br",
-            "celular": "(31)996331784",	
+            "celular": "(31) 9 9633-1784",	
             "endereco": 
                         {
-                                "cep": "31630360",
+                                "cep": "31630-360",
                                 "logradouro": "Rua Doutor Custódio de Paula Rodrigues 19",
-                                "complemento": "Casa 8",
+                                "complemento": "casa 8",
                                 "bairro": "Centro",
                                 "cidade": "Abre Campo",
                                 "uf": "MG"
@@ -30,7 +30,7 @@
                                 "pedido": 7580,
                                 "status": "Entregue",
                                 "data_compra": "15-07-21",
-                                "valor": 225,
+                                "valor": 225.00,
                                 "quantidade": 5
                         }
                    ]
@@ -38,14 +38,14 @@
         
         {
             "nome": "Rafael Novaes",
-            "cpf": "93509197704",
+            "cpf": "935.091.977-04",
             "email": "novaesrafael@jh2consulting.com",
-            "celular": "(22)997652247",
+            "celular": "(61) 9 9765-2247",
             "endereco": 
                         {
-                                "cep": "28970971",
+                                "cep": "28970-971",
                                 "logradouro": "Avenida Getúlio Vargas 1425",
-                                "complemento": "Loja B",
+                                "complemento": "loja B",
                                 "bairro": "Centro",
                                 "cidade": "Araruama",
                                 "uf": "RJ"
@@ -66,12 +66,12 @@
         
         {
             "nome": "Jonas Raposo",
-            "cpf": "61086076028",
+            "cpf": "610.860.760-28",
             "email": "jonas76@raposoengenharia.com.br",
-            "celular": "(51)995272132",
+            "celular": "(51) 9 9527-2132",
             "endereco": 
                         {
-                                "cep": "94855180",
+                                "cep": "94855-180",
                                 "logradouro": "Rua Engenheiro Ildo Menegheti 5",
                                 "bairro": "Aparecida",
                                 "cidade": "Alvorada",
@@ -84,7 +84,7 @@
                                 "pedido": 5123,
                                 "status": "Enviado",
                                 "data_compra": "04-08-21",
-                                "valor": 135,
+                                "valor": 135.00,
                                 "quantidade": 3
                         }
                     ]   
